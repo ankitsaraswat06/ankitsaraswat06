@@ -1,58 +1,43 @@
-<h1 align="center">👋 Hey, I'm <strong>Ankit Saraswat</strong></h1>
-<p align="center">
-🚀 Software Developer | MERN Stack | Java Enthusiast<br>
-🔍 Interested in Backend Engineering & System Design
-</p>
+# 👋 Hi, I'm Ankit Saraswat!
+
+💻 Software Developer | MERN Stack | Java Enthusiast  
+🎯 Passionate about Backend Development & System Design  
+🚀 Continuously improving my DSA, learning AI & Cloud technologies
 
 ---
 
-### 🧑‍💻 About Me
+### 🛠 Tech Stack
 
-- Final-year B.Tech student passionate about building scalable systems  
-- Strong foundation in DSA, currently levelling up AI & Cloud skills  
-- I enjoy turning ideas into real working products that solve real problems
-
----
-
-### ⚒️ Tech Stack
-
-**Languages:** Java, JavaScript, Python, SQL  
-**Web:** React, Node.js, Express, HTML, CSS  
-**Databases:** MySQL, MongoDB  
-**Tools & Others:** Git, GitHub, Postman, Docker (Basics)
+- **Languages**: Java, JavaScript, Python, SQL  
+- **Web**: React, Node.js, Express, HTML, CSS  
+- **Databases**: MySQL, MongoDB  
+- **Tools**: Git, GitHub, Postman, Docker (Basics)
 
 ---
 
-### 🌱 Currently Building
+### 🔥 What I’m Working On
 
-- Smart Automatic Student Attendance Platform 
-- Airbnb-style Property Management App (MERN)
+- Smart Automatic Student Attendance Platform 👨‍⚕️🤖
+- MERN Airbnb-like Property Management App 🏠
 
 ---
 
 ### 🏆 Coding Profiles
 
-- **LeetCode:** 500+ Problems Solved | 1700+ Rating  
-- **Codeforces:** Specialist (1500+ Rating) 🧠📈  
+- LeetCode: _500+ Problems Solved_  **1700+** rating**  
+- Codeforces: **1500+ rating** 📈
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="170" />
-</p>
+📧 Email: **saraswatankit775@gmail.com**  
+🌐 LinkedIn: **https://www.linkedin.com/in/ankit-saraswat-2a769b2b0/**  
 
 ---
 
-### 📫 Let’s Connect!
+### ❤️ Fun Fact
 
-📧 **saraswatankit775@gmail.com**  
-🔗 **LinkedIn:** www.linkedin.com/in/ankit-saraswat-2a769b2b0/
+I love solving real-world problems with code & experimenting with new tech!
 
----
-
-### ✨ Little Extra
-
-💡 “Building one commit at a time — learning never stops!”  
+this is what i have updated..now make it more stylish.. not too much though still should look professional
