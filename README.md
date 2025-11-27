@@ -17,22 +17,22 @@
 
 ### 🔥 What I’m Working On
 
-- AI-based Skin Disease Classification System 👨‍⚕️🤖
+- Smart Automatic Student Attendance Platform 👨‍⚕️🤖
 - MERN Airbnb-like Property Management App 🏠
 
 ---
 
 ### 🏆 Coding Profiles
 
-- LeetCode: _300+ Problems Solved_  
-- Codeforces: **1127 rating** 📈
+- LeetCode: _500+ Problems Solved_  **1700+** rating**  
+- Codeforces: **1500+ rating** 📈
 
 ---
 
 ### 📫 Connect With Me
 
-📧 Email: **your-email@gmail.com**  
-🌐 LinkedIn: **linkedin.com/in/your-profile**  
+📧 Email: **saraswatankit775@gmail.com**  
+🌐 LinkedIn: **https://www.linkedin.com/in/ankit-saraswat-2a769b2b0/**  
 
 ---
 
