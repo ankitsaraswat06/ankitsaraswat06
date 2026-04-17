@@ -39,5 +39,3 @@
 ### ❤️ Fun Fact
 
 I love solving real-world problems with code & experimenting with new tech!
-
-this is what i have updated..now make it more stylish.. not too much though still should look professional
